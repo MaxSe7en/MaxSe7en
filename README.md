@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!-- - 🔭 I’m currently working on car service app.
 - 👯 I’m looking to collaborate on large mobile and web app projects that aims to boost productivity.
