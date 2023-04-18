@@ -7,15 +7,17 @@
 - 🌍 Checkout my portfolio at https://softscraft.com/ -->
 <img src="./banner.png" alt="" srcset=""><br />
 
-# Hi, I'm Randy Otabil Odoom<br/>
+# Hi, I am Awuah Twerefour Maxwell<br/>
 
 -  Fullstack developer<br/>
 
 ## 📬 Get in touch
 
--  Linkedin :[https://www.linkedin.com/in/randy-odoom-791a941b3/]
--  Portfolio: [https://roodev19.web.app/]
--  Twitter: [https://twitter.com/OdoomRandy]
+<!-- -  Linkedin :[https://www.linkedin.com/in/randy-odoom-791a941b3/] -->
+<!-- -  Portfolio: [https://softscraft.com/] -->
+Email: nanayawfixing@gmail.com
+Call/Whatsapp +233547040214
+<!-- -  Twitter: [https://twitter.com/OdoomRandy] -->
 
 ## &#x1f4c8; Tools
 
