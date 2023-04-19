@@ -17,7 +17,6 @@
 <!-- -  Portfolio: [https://softscraft.com/] -->
 Email: nanayawfixing@gmail.com
 Call/Whatsapp +233547040214
-<!-- -  Twitter: [https://twitter.com/OdoomRandy] -->
 
 ## &#x1f4c8; Tools
 
