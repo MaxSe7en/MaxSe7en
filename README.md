@@ -46,7 +46,7 @@ Call/Whatsapp +233547040214
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 
-## &#x1f4c8; My GitHub Stats
+<!-- ## &#x1f4c8; My GitHub Stats -->
 
 <!-- 
 <img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=MaxSe7en&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" />
