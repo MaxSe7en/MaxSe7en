@@ -48,10 +48,10 @@ Call/Whatsapp +233547040214
 
 ## &#x1f4c8; My GitHub Stats
 
-
+<!-- 
 <img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=MaxSe7en&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" />
 <br/>
 <img style="margin-bottom:20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxSe7en&theme=dracula" />
 <br/>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxSe7en&layout=compact&theme=dracula&count_private=true&langs_count=10" />
-<br/>
+<br/> -->
