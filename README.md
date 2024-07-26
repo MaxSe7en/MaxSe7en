@@ -16,7 +16,7 @@
 <!-- -  Linkedin :[https://www.linkedin.com/in/randy-odoom-791a941b3/] -->
 <!-- -  Portfolio: [https://softscraft.com/] -->
 Email: nanayawfixing@gmail.com
-Call/Whatsapp +233547040214
+Call/Whatsapp +233531532837
 
 ## &#x1f4c8; Tools
 
