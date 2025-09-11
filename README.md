@@ -1,49 +1,44 @@
-<!-- ### Hi there 👋 -->
+<img src="./banner.png" alt="banner"><br />
 
-<!-- - 🔭 I’m currently working on car service app..
-- 👯 I’m looking to collaborate on large mobile and web app projects that aims to boost productivity.
-- 💬 Ask me about anything technology.
-- 📫 How to reach me: email nanayawfixing@gmail.com or call/whatsapp +233547040214.
-- 🌍 Checkout my portfolio at https://softscraft.com/.. -->
-<img src="./banner.png" alt="" srcset=""><br />
+# Hi, I'm Awuah Twerefour Maxwell  
 
-# Hi, I am Awuah Twerefour Maxwell<br/>
+**Fullstack Developer** — building web and mobile apps with a focus on usability, performance, and accessibility.  
 
--  Fullstack developer<br/>
+---
 
-## 📬 Get in touch
+## 👨‍💻 About Me  
+I’m a fullstack developer passionate about transforming ideas into reliable, user-friendly applications.  
+My work spans **web and mobile development**, with experience in **React, Next.js, Node.js, Flutter, and Java**.  
+I enjoy solving complex challenges, collaborating with teams, and continuously learning to improve my craft.  
+Whether it’s a startup project or a large-scale platform, I focus on delivering software that creates real impact.  
 
-<!-- -  Linkedin :[https://www.linkedin.com/in/randy-odoom-791a941b3/] -->
-<!-- -  Portfolio: [https://softscraft.com/] -->
-Email: nanayawfixing@gmail.com
-Call/Whatsapp +233531532837
+---
 
-## &#x1f4c8; Tools
+## 📬 Get in touch  
+- 📧 Email: **nanayawfixing@gmail.com**  
+- 💬 WhatsApp: [Chat with me](https://wa.me/233531532837)  
+- 📱 Call: **+233531532837**  
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br/>
-<br/>
-<!-- -<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br/>
+---
 
-<!-- ## &#x1f4c8; My GitHub Stats -->
+## ⚒️ Tools I work with  
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35px">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="35px">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35px">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="35px">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="35px">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="35px">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="35px">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="35px">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="35px">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="35px">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="35px">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35px">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="35px">  
 
+---
+
+<!-- Optional GitHub Stats Section -->
 <!-- 
-<img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=MaxSe7en&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" />
-<br/>
-<img style="margin-bottom:20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxSe7en&theme=dracula" />
-<br/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxSe7en&layout=compact&theme=dracula&count_private=true&langs_count=10" />
-<br/> -->
+![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxSe7en&show_icons=true&theme=dracula&count_private=true)
+-->
