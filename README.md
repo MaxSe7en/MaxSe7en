@@ -1,49 +1,47 @@
-<img src="./banner.png" alt="banner"><br />
+<img src="./banner.png" alt="banner" width="100%" />
 
-# Hi, I'm Awuah Twerefour Maxwell  
+# Maxwell Awuah
 
-**Fullstack Developer** — building web and mobile apps with a focus on usability, performance, and accessibility.  
+**Full-stack developer** — web, mobile, and the systems that keep products in production.
 
----
+I design and ship applications end to end: native apps, web platforms, APIs, payments, and the Linux servers they run on. The through-line is the same — software people can actually use, that stays fast, and that holds up in production.
 
-## 👨‍💻 About Me  
-I’m a fullstack developer passionate about transforming ideas into reliable, user-friendly applications.  
-My work spans **web and mobile development**, with experience in **React, Next.js, Node.js, Flutter, FastAPI, and Java**.  
-I enjoy solving complex challenges, collaborating with teams, and continuously learning to improve my craft.  
-Whether it’s a startup project or a large-scale platform, I focus on delivering software that creates real impact.  
+Currently building across fintech, mobility, and consumer apps.
 
 ---
 
-## 📬 Get in touch  
-- 📧 Email: **nanayawfixing@gmail.com**  
-- 💬 WhatsApp: [Chat with me](https://wa.me/233531532837)  
-- 📱 Call: **+233531532837**  
+## Selected work
+
+- **[Rarebl](https://rarebl.com)** — Digital assets marketplace. P2P trading, wallets, and instant payouts to bank and mobile money. Web and native apps.
+- **[AutoSays](https://autosays.com)** — Roadside, towing, and repair. Customer and provider apps with quotes, live tracking, and in-app payments.
+- **[Pingbox](https://pingbox.ai)** — On-device Android notification inbox. Rules, quiet hours, and a home widget. No accounts, no cloud.
+- **[SoftsCraft](https://softscraft.com)** — Business software for distributors and operators — inventory, orders, and day-to-day operations.
+
+I also take products from build to store listing (iOS and Android), and keep production APIs, TLS, and servers running.
 
 ---
 
-## ⚒️ Tools I work with  
+## Stack
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br/><br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,fastapi,php,java" alt="Web and backend" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,mysql,mongodb,linux,git" alt="Mobile, data, and ops" />
+</p>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+**Mobile** — Flutter, Dart, React Native, Android, Java  
+**Web** — React, Next.js, TypeScript, JavaScript  
+**Backend** — Node.js, PHP, FastAPI, Java  
+**Data & ops** — MySQL, MongoDB, Git, Linux, Apache
 
 ---
 
-<!-- Optional GitHub Stats Section -->
-<!-- 
-![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxSe7en&show_icons=true&theme=dracula&count_private=true)
+## Contact
+
+- Email: [nanayawfixing@gmail.com](mailto:nanayawfixing@gmail.com)
+- WhatsApp: [+233 53 153 2837](https://wa.me/233531532837)
+- Web: [softscraft.com](https://softscraft.com)
+
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxSe7en&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 -->
